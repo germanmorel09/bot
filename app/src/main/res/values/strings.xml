@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Driver Smart Assistant</string>
+    <string name="accessibility_service_description">Asistente inteligente que analiza los viajes en pantalla y decide si cumplen con tus filtros configurados.</string>
+</resources>

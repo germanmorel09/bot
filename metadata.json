@@ -1,0 +1,6 @@
+{
+  "name": "Driver Smart Assistant",
+  "description": "Smart assistant for drivers to automatically analyze rides and filter them based on customizable rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
